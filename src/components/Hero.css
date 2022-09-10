@@ -1,0 +1,19 @@
+.hero--image {
+    width: 100%;
+}
+
+.hero-container {
+    /* background: url('/images/img-home.jpg') center center/cover no-repeat; */
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    object-fit: contain;
+  }
+
+  .hero-container > h1 {
+    color: black;
+    font-size: 100px;
+    margin-top: -400px;
+  }

@@ -1,0 +1,21 @@
+.search--container {
+    text-align: center;
+    display: grid;
+    grid-template: 40px 40px;
+    color:black;
+    gap: 17px;
+    padding: 200px;
+}
+
+.search--bar {
+    height:30px;
+    width:100%;
+    text-indent: 5px;
+    border-radius: 5px;
+    
+}
+
+.search--bar--text {
+    font-size:20pt;
+
+}
